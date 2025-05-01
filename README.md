@@ -13,7 +13,7 @@ Comprometido com qualidade e inovação, estou sempre aprimorando minhas habilid
 indústria de games.
 
  
-##PRINCIPAIS COMPETÊNCIAS
+## PRINCIPAIS COMPETÊNCIAS
  
 Programação C#, Unity, Construct 3, prototipagem rápida, otimização de performance, 
 integração de assets e efeitos visuais, game design, inglês técnico, trabalho em equipe 
