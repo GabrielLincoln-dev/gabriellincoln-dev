@@ -23,5 +23,6 @@ e pensamento analítico.
    <br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
- 
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLincoln-dev)](https://github.com/GabrielLincoln-dev/github-readme-stats)
 
