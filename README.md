@@ -1,4 +1,4 @@
-## Olá sou o Gabriel Gianini, estudante de programção em transição de carreira!
+# Olá sou o Gabriel Gianini, estudante de programção em transição de carreira!
 
 Desenvolvedor de jogos apaixonado por criar experiências imersivas e interativas, 
 especializado em Unity (C#) e Construct 3. 
@@ -13,11 +13,11 @@ Comprometido com qualidade e inovação, estou sempre aprimorando minhas habilid
 indústria de games.
 
  
-PRINCIPAIS COMPETÊNCIAS
+##PRINCIPAIS COMPETÊNCIAS
  
 Programação C#, Unity, Construct 3, prototipagem rápida, otimização de performance, 
 integração de assets e efeitos visuais, game design, inglês técnico, trabalho em equipe 
 e pensamento analítico.
-  ##
+  
  
 
