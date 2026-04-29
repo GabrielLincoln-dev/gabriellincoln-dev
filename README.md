@@ -26,7 +26,7 @@
 
 ## 📊 Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?usernameGabrielLincoln-dev&show_icons=true&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielLincoln-dev&show_icons=true&theme=github_dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLincoln-dev&layout=compact&theme=github_dark)
 
