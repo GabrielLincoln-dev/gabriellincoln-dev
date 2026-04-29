@@ -1,28 +1,38 @@
-# Olá sou o Gabriel Gianini, estudante de programção em transição de carreira!
+# 👋 Olá, eu sou o Gabriel
 
-Desenvolvedor de jogos apaixonado por criar experiências imersivas e interativas, 
-especializado em Unity (C#) e Construct 3. 
+💻 Desenvolvedor em evolução  
+🚀 Focado em construir projetos reais e resolver problemas  
+📚 Atualmente estudando e aplicando conceitos de desenvolvimento  
 
-Com experiência no desenvolvimento de 
-jogos 2D e 3D, foco na prototipagem rápida e otimização de performance, busco 
-transformar ideias inovadoras em projetos envolventes. 
+---
 
-Minha atuação inclui integração de assets, animações e efeitos visuais para proporcionar mecânicas fluidas e gameplay desafiador. 
+## 🧠 Sobre mim
 
-Comprometido com qualidade e inovação, estou sempre aprimorando minhas habilidades para contribuir com estúdios e projetos ambiciosos na 
-indústria de games.
+- Experiência com desenvolvimento de aplicações e projetos sob demanda  
+- Facilidade em aprender novas tecnologias conforme a necessidade  
+- Interesse em frontend, lógica de programação e soluções práticas  
+- Buscando oportunidade na área de tecnologia  
 
- 
-## PRINCIPAIS COMPETÊNCIAS
- 
-Programação C#, Unity, Construct 3, prototipagem rápida, otimização de performance, 
-integração de assets e efeitos visuais, game design, inglês técnico, trabalho em equipe 
-e pensamento analítico.
+---
 
-  <div style="display: inline_block">
-   <br>
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+## 🚀 O que você vai encontrar aqui
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLincoln-dev)](https://github.com/GabrielLincoln-dev/github-readme-stats)
+- Projetos práticos
+- Experimentos com diferentes tecnologias
+- Aplicações publicadas (deploy)
+- Evolução contínua como desenvolvedor
 
+---
+
+## 📊 Estatísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?usernameGabrielLincoln-dev&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLincoln-dev&layout=compact&theme=github_dark)
+
+---
+
+## 📫 Contato
+
+- Email: sgabriellincolndev@gmail.com
+- LinkedIn: https://www.linkedin.com/in/gabriellincoln99
