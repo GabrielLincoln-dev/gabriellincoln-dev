@@ -34,5 +34,5 @@
 
 ## 📫 Contato
 
-- Email: sgabriellincolndev@gmail.com
+- Email: gabriellincolndev@gmail.com
 - LinkedIn: https://www.linkedin.com/in/gabriellincoln99
