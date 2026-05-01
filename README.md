@@ -10,7 +10,7 @@
 
 - Experiência com desenvolvimento de aplicações e projetos sob demanda  
 - Facilidade em aprender novas tecnologias conforme a necessidade  
-- Interesse em frontend, lógica de programação e soluções práticas  
+- Interesse em frontend, lógica de programação e soluções práticas   
 - Buscando oportunidade na área de tecnologia  
 
 ---
